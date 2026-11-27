@@ -1,7 +1,59 @@
 {
-  "generated": "2026-11-21T20:36:51Z",
+  "generated": "2026-11-27T16:18:30Z",
   "channel": "AI Tech Update",
   "stories": [
+    {
+      "id": "gpt-6-just-designed-proteins-that-worked-in-a-real-lab",
+      "title": "GPT-6 Just Designed Proteins That Worked in a Real Lab",
+      "date": "2026-11-27",
+      "category": "ai",
+      "type": "video",
+      "youtubeId": "XthLzt0WC3k",
+      "url": "https://www.youtube.com/watch?v=XthLzt0WC3k",
+      "image": "https://i.ytimg.com/vi/XthLzt0WC3k/hqdefault.jpg",
+      "imageAlt": null,
+      "summary": "OpenAI says its GPT-6 family can design new protein structures and amino-acid sequences using only reasoning and general-purpose coding tools, without calling specialized biology models to generate the designs.",
+      "article": "AI Tech Update — November 27, 2026\n\nOpenAI says its GPT-6 family can design new protein structures and amino-acid sequences using only reasoning and general-purpose coding tools, without calling specialized biology models to generate the designs.\n\nIn lab tests with research partner Onava, 322 minibinders designed from a pre-release GPT-6.2's 3D designs were tested against five targets, and 35 (10.9%) showed evidence of binding — 18 for IL-17A, 8 for VEGF-A, 5 for PD-L1, 3 for IL-7Rα and 1 for TrkA.\n\nIn a second experiment, GPT-6.2's new sequences bound in 75 of 88 designs for MDM2 (85%), 26 of 42 for VEGF-A (62%) and 8 of 59 for PD-1 (14%); 128 of 182 redesigned antibody loops (70%) showed signs of binding.\n\nThe honest labels: this is OpenAI's own preprint research (Nov 24, 2026), company-reported and not independently reproduced; specialized models supplied sequences for the 3D designs and helped select candidates; and OpenAI itself says predicting a complete protein structure remained a clear weakness.\n\nSource: OpenAI, “GPT-6 models demonstrate intrinsic protein-design capabilities” (openai.com, Nov 24, 2026)."
+    },
+    {
+      "id": "gpt-6-2-is-now-in-chatgpt-what-s-actually-better",
+      "title": "GPT-6.2 Is Now in ChatGPT — What's Actually Better",
+      "date": "2026-11-27",
+      "category": "ai",
+      "type": "video",
+      "youtubeId": "F5WYAtgePTY",
+      "url": "https://www.youtube.com/watch?v=F5WYAtgePTY",
+      "image": "https://i.ytimg.com/vi/F5WYAtgePTY/hqdefault.jpg",
+      "imageAlt": null,
+      "summary": "GPT-6.2 rolled out to the regular ChatGPT Chat tab on November 23, 2026, powered by a version of GPT-6.2 Sol tuned for everyday conversation.",
+      "article": "AI Tech Update — November 27, 2026\n\nGPT-6.2 rolled out to the regular ChatGPT Chat tab on November 23, 2026, powered by a version of GPT-6.2 Sol tuned for everyday conversation.\n\nIt is available to Plus, Pro, Business and Enterprise users worldwide; Enterprise workspaces need an admin to enable it, and the rollout is gradual. Free and Go plans do not get it yet, and OpenAI has given no date for them. ChatGPT Work and Codex are unchanged by this release — GPT-6.2 arrived there on November 17.\n\nIn OpenAI's own internal tests (OpenAI's numbers, not independently verified), image understanding rose to 71.7% from 47.4% with GPT-6, following hard instructions rose to 78.1% from 62.5%, expert tasks at the lowest reasoning setting reached 65% from 52%, and web browsing scored 64.5% versus 54.4%. Teen-safety conversations met policy 91 to 94% of the time, up from 77 to 80%. ChatGPT can also now offer to notify you when a price drops.\n\nSeparately, it has been reported — not confirmed by OpenAI — that GPT-5.6 Sol and Terra retire on December 23, 2026; OpenAI's API deprecations page does not list a GPT-5.6 shutdown.\n\nSource: OpenAI ChatGPT release notes, “GPT-6.2, now in the chat tab” (Nov 23, 2026)."
+    },
+    {
+      "id": "openai-admits-a-billing-mistake-your-gpt-6-2-limits-now-drain-faster",
+      "title": "OpenAI Admits a Billing Mistake — Your GPT-6.2 Limits Now Drain Faster",
+      "date": "2026-11-27",
+      "category": "ai",
+      "type": "video",
+      "youtubeId": "ihiDPhqBeg8",
+      "url": "https://www.youtube.com/watch?v=ihiDPhqBeg8",
+      "image": "https://i.ytimg.com/vi/ihiDPhqBeg8/hqdefault.jpg",
+      "imageAlt": null,
+      "summary": "OpenAI has admitted a billing mistake at the GPT-6.2 launch: it under-counted GPT-6.2 Astra and Sol usage for most subscribers.",
+      "article": "AI Tech Update — November 27, 2026\n\nOpenAI has admitted a billing mistake at the GPT-6.2 launch: it under-counted GPT-6.2 Astra and Sol usage for most subscribers.\n\nThe error is now fixed, so the same work consumes more of a plan's usage allowance — users reach their limits about 40% faster on GPT-6.2 Astra and about 25% faster on GPT-6.2 Sol compared with last week.\n\nOpenAI will not charge customers for the difference in past usage, other models are not affected, and subscription prices are not changing. To make up for it, everyone on Go, Plus, Pro and Business gets one banked reset.\n\nAs reported by Neowin (Nov 26, 2026), from OpenAI's Tibo Sottiaux on X."
+    },
+    {
+      "id": "devday-2026",
+      "title": "OpenAI DevDay 2026, Explained: Dots, GPT-6.1 Sol and Sign In With ChatGPT",
+      "date": "2026-11-27",
+      "category": "ai",
+      "type": "article",
+      "youtubeId": null,
+      "url": "https://muse.ai/s/ai-tech-update-website-xat60fxy3bxcxa2/tSvHQPiLftk7lSh9waJEB0oX3MK5bCvCZM7DzvWhwLY",
+      "image": null,
+      "imageAlt": null,
+      "summary": "At DevDay 2026, OpenAI announced more than 20 updates across ChatGPT, Codex and its models. The headline was Dots: always-on agents that keep working on your behalf, available on Pro and Business Premium in eligible markets, with Enterprise, Edu and Healthcare able to try a beta their admin enables.",
+      "article": "AI Tech Update — November 27, 2026 — a catch-up explainer of OpenAI's DevDay 2026, held September 29, 2026. This is not November news; it is an event the channel had not covered yet.\n\nAt DevDay 2026, OpenAI announced more than 20 updates across ChatGPT, Codex and its models. The headline was Dots: always-on agents that keep working on your behalf, available on Pro and Business Premium in eligible markets, with Enterprise, Edu and Healthcare able to try a beta their admin enables.\n\nCodex now runs on a computer, remotely from a phone, or in the cloud from any device. Plugin extensions give developers a home in the ChatGPT sidebar with interactive panels, available to all plans. Sign in with ChatGPT lets you use your plan across 16 partners, including Devin, Notion and Vercel.\n\nOpenAI also announced GPT-6.1 Sol, an Ultrafast speed tier with a Pro 500 plan, the Agents API in public beta and the Decisions API in limited preview. OpenAI says ChatGPT now has 1.2 billion weekly users.\n\nSource: OpenAI, DevDay 2026 Recap (openai.com)."
+    },
     {
       "id": "f1-academy",
       "title": "Apple TV Becomes the New U.S. Home of F1 ACADEMY in 2027",
